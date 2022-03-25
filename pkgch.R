@@ -3,7 +3,7 @@ pkgch <- function(pack){
 #パッケージ・自動インスコ&読み込み。インストール済みであれば読み込みだけ
   
 #パッケージチェック関数「pkgch」を定義
-  
+source("https://raw.githubusercontent.com/dipperGit/pkgch/br1/pkgch.R", encoding="UTF-8")
 ######
 #使い方
 #pkgch("pacman")
