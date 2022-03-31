@@ -6,3 +6,5 @@ Rのパッケージの自動インストールと読み込みをやってくれ�
 source("https://raw.githubusercontent.com/dipperGit/pkgch/br1/pkgch.R", encoding="UTF-8")
 
 pkgch("パッケージ名")で実行できる。
+
+いや、まあ、pacmanパッケージ使えよっていうツッコミはあるんですけれど。
